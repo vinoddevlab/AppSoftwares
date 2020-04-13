@@ -1,0 +1,8 @@
+Addition(a,b)
+return
+Multiplication(a,b)
+return
+Division(a,b)
+return
+Subtraction(a,b)
+return
