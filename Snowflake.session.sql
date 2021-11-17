@@ -1,0 +1,1 @@
+create table Test2(col1 int)
